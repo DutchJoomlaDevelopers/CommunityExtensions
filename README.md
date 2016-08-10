@@ -26,6 +26,11 @@ Listing of Joomla extensions not available on the official Joomla Exension Direc
 - Address lookup based on postcode/housenumber via Postcodeapi.nu
 - https://github.com/renekreijveld/postcodeapi
 
+## User Agent Detector (plugin)
+- _by Rene Kreijveld (renekreijveld)_
+- This system plugin detects the user agent of your website visitor and sets a session variable accordingly
+- https://github.com/renekreijveld/UserAgentDetector
+
 ## Conditional Search Content (plugin)
 - _by Rene Kreijveld (renekreijveld)_
 - Joomla content search plugin that allows searching in selected categories
